@@ -3,3 +3,5 @@
 assignment
 .venv
 note.txt
+cache.db
+model.json
